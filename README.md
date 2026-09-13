@@ -5,6 +5,8 @@
 </p>
 
 <p align="center">
+	<a href="https://snapclass-landing-cyan.vercel.app/">View the deployed landing page</a>
+	&nbsp; | &nbsp;
 	<a href="https://snapclass-aman.streamlit.app/">Open the live SnapClass app</a>
 	&nbsp; | &nbsp;
 	<a href="https://github.com/Aman05cody/snapclass-landing">View the source repository</a>
@@ -15,6 +17,8 @@
 ## Overview
 
 This repository contains the SnapClass marketing and product-experience landing page. It introduces the platform, explains the teacher and student workflows, highlights the AI attendance features, and links visitors to the live attendance application.
+
+**Deployed landing page:** [snapclass-landing-cyan.vercel.app](https://snapclass-landing-cyan.vercel.app/)
 
 The landing page is intentionally a small Flask application. The actual attendance experience is hosted separately as a Streamlit application and is available here:
 
